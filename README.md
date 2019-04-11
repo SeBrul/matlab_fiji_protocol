@@ -1,10 +1,12 @@
 ## Matlab-Fiji Protocol
 
-Before using the script, Fiji with the Trainable Weka plugin need to be installed. The MATLAB code passes an image from MATLAB to FIJI, applying a predefined classifier on the image and passes the image back to MATLAB.
+The MATLAB code passes an image from MATLAB to FIJI, applying a predefined classifier on the image and passes the image back to MATLAB.
 
-Before use adapt paths in lines 3-5.
+Before using the script:
+1) Fiji with the Trainable Weka plugin need to be installed 
+2) Adapt paths in lines 3-5
 
-For help with the installation, see:
+For help with installations, see:
 
 https://fiji.sc/
 
