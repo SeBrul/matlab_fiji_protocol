@@ -1,6 +1,6 @@
 ## Matlab-Fiji Protocol
 
-The MATLAB code passes an image from MATLAB to FIJI, applying a predefined classifier on the image and passes the image back to MATLAB.
+The MATLAB code passes an image from MATLAB to FIJI, applying a predefined classifier on the image and passes the segmented image back to MATLAB.
 
 Before using the script:
 1) Fiji with the Trainable Weka plugin need to be installed 
