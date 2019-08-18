@@ -6,7 +6,7 @@ Before using the script:
 1) Fiji with the Trainable Weka plugin need to be installed 
 2) Adapt paths in lines 3-5
 
-For help with installations, see:
+For help with installations:
 
 https://fiji.sc/
 
